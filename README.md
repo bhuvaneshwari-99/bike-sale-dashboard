@@ -2,7 +2,7 @@
 
 An Excel dashboard analyzing 1,026 customer records to understand who buys bikes and why. Built with PivotTables, PivotCharts, and slicers for interactive filtering by **Marital Status**, **Region**, and **Education**.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](/Screenshot%202026-06-17%20174541.png)
 
 ## 📊 Project Overview
 
